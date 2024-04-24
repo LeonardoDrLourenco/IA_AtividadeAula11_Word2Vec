@@ -1,0 +1,1 @@
+# IA_AtividadeAula11_Word2Vec
